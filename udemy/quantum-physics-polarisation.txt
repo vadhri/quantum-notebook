@@ -1,0 +1,15 @@
+Photon polarization is similar to quantum bits. Superposition and entaglement are properties of quantum bits. 
+
+Polarization
+- Horizontal ( angle 0 )
+- Vertical ( angle 90 )
+
+Classical bits 0 or 1 
+Vertical polarization - Qubit 1 
+Horizontal polarization - Qubit 0 
+
+Polarization filters 
+Vertical photon direction - Vertical polarizing filter - Pass through 
+Vertical photon direction - Horizontal polarizing filter - Opaque 
+Vertical photon direction - Filter at theta - partial pass through. 
+
