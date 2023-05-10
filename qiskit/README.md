@@ -9,7 +9,7 @@ The following folders contain examples of various quantum methods.
 ||QFT|N-Bit QFT with multiple iterations|
 |||IQFT example with N Qubits|
 ||QPE|Multi-Qubit Quantum phase estimation with phase gates|
-||Shor(T)||
+||Shor|Factorization of number 15|
 ||Simon(T)||
 |Quantum Circuits|Tafolli|Apply Multi-qubit tafolli gate|
 ||Phase gates|T Gate in conjunction with H, CNOT|
