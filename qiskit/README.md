@@ -16,4 +16,6 @@ The following folders contain examples of various quantum methods.
 ||Example circuits||
 |Quantum information|BB84|Secret key exchange|
 ||Teleportation|Multi Qbit teleportation|
+||Superdense coding - 2 Qubits|Send classical information to bob by exchanging single qubit.|
+
 |Quantum ML|Vector inner product||
