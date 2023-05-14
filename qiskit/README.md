@@ -16,3 +16,4 @@ The following folders contain examples of various quantum methods.
 ||Example circuits||
 |Quantum information|BB84|Secret key exchange|
 ||Teleportation|Multi Qbit teleportation|
+|Quantum ML|Vector inner product||
