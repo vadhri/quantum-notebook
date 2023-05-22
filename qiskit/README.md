@@ -10,7 +10,8 @@ The following folders contain examples of various quantum methods.
 |||IQFT example with N Qubits|
 ||QPE|Multi-Qubit Quantum phase estimation with phase gates|
 ||Shor|Factorization of number 15|
-||Simon(T)||
+||Simon|2 Qubit period finding for 1-1|
+|||3 and 2 Qubit period finding for 2-1|
 |Quantum Circuits|Tafolli|Apply Multi-qubit tafolli gate|
 ||Phase gates|T Gate in conjunction with H, CNOT|
 ||Example circuits||
