@@ -18,4 +18,7 @@ The following folders contain examples of various quantum methods.
 |Quantum information|Teleportation|Multi Qbit teleportation|
 ||Superdense coding - 2 Qubits|Send classical information to bob by exchanging single qubit.|
 |Quantum ML|Data Encoding|Vector inner product|
-|Quanum Cruptography|BB84|Transmit secret key between alice and bob.|
+||Basis Encoding|
+||Hamiltonian Encoding|
+||Mottogen uniform rotation|
+|Quantum Cruptography|BB84|Transmit secret key between alice and bob.|
