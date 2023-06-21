@@ -8,6 +8,7 @@ The following folders contain examples of various quantum methods.
 |||4 Qubit - 8|
 ||QFT|N-Bit QFT with multiple iterations|
 |||IQFT example with N Qubits|
+|||Addition of two numbers using QFT|
 ||QPE|Multi-Qubit Quantum phase estimation with phase gates|
 ||Shor|Factorization of number 15|
 ||Simon|2 Qubit period finding for 1-1|
