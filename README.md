@@ -2,6 +2,7 @@ The following folders contain examples of various quantum methods.
 
 |Topic|Method|Desciption|
 |-|-|-|
+|QCML|Assignments and capstone||
 |Quantum Algorithms|Bernstein-Vazarani|Find secret key inside the oracle|
 ||Deutsz-Josza(T)|Find if the function f(x) is constant or balanced.|
 ||Grover search|2 Qubit - 4|
@@ -18,8 +19,20 @@ The following folders contain examples of various quantum methods.
 ||Example circuits|...| 
 |Quantum information|Teleportation|Multi Qbit teleportation|
 ||Superdense coding - 2 Qubits|Send classical information to bob by exchanging single qubit.|
-|Quantum ML|Data Encoding|Vector inner product - Swap test and hadamard test|
-|||Basis Encoding with superposition|
+|Quantum ML|||
+||Vector inner product|Swap test and hadamard test|
+||Data Encoding|Basis Encoding with superposition|
 |||Hamiltonian Encoding|
 |||Mottogen uniform rotation|
+|||Amplitude encoding|
+||Kmeans|Euclidean distance|
+|||Clustering hybrid classical and quantum|
+||QAOA|Maxcut graph algoithm|
+|||Cost optimization|
+||Classifier|Support vector classifier with quantum kernels|
+|||Square distance classifier with toy dataset|
+|||VQC example with single qubit|
+||NN|Perceptron example circuit|
+||VQE|Minimum eigen value used in quantum chemistry|
+||Linear regression|HHL Algorithm qiskit framework usage|
 |Quantum Cruptography|BB84|Transmit secret key between alice and bob.|
