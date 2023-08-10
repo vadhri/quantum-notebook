@@ -1,3 +1,6 @@
-This folder contains a simple demonstration of BB84 quantum key exchange in conjunction with traditional socket data exchange. In the example, sender is trying to send a simple file to receiver in chunks of data which are encypted by the current key. They key id is transmitted along with the chunk. The keys are delivered directly to sender and receiver by key mgmt layer that includes quantum bit. 
+This folder contains a simple demonstration of BB84 quantum key exchange in conjunction with traditional socket data exchange. 
+In the example, sender is trying to send a simple file to receiver over tcp sockets, in chunks of data which are encypted by the current key. The key is rotated every 1s or configured amount in ipynb file as many times configured. 
+They key id is transmitted along with the chunk of data indicating the key receiver should use to decrypt. 
+The keys are delivered directly to sender and receiver by key mgmt layer that includes quantum bit. 
 
-![alt text](BB84.drawio.png "Title")
+![alt text](BB84.drawio.svg "Title")
