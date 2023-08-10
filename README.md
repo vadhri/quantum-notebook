@@ -36,3 +36,4 @@ The following folders contain examples of various quantum methods.
 ||VQE|Minimum eigen value used in quantum chemistry|
 ||Linear regression|HHL Algorithm qiskit framework usage|
 |Quantum Cruptography|BB84|Transmit secret key between alice and bob.|
+|||Encrypt data using key shared between alice and bob using tcp sockets.|
