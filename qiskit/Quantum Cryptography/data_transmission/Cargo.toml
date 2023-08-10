@@ -1,0 +1,25 @@
+[package]
+name = "data_transmission"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+config = "0.13.1"
+lazy_static = "1.4.0"
+aes="0.7.5"
+hex="0.4.3"
+block-modes="0.8.1"
+hex-literal="0.3.3"
+
+[[bin]]
+name = "receiver"
+path = "receiver/receiver.rs"
+
+[[bin]]
+name = "sender"
+path = "sender/sender.rs"
+
+
