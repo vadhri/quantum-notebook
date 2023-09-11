@@ -27,13 +27,21 @@ The following folders contain examples of various quantum methods.
 |||Amplitude encoding|
 ||Kmeans|Euclidean distance|
 |||Clustering hybrid classical and quantum|
-||QAOA|Maxcut graph algoithm|
+|Quantum Optimization||Maxcut graph algoithm|
 |||Cost optimization|
+||QAOA|Simple max and min quadratic program |
+|||Set packaging problem ( with and without direct QUBO matrix. )|
+|||Set partitioning problem|
+|||Maxcut|
+|||Minimum vertex cover|
 ||Classifier|Support vector classifier with quantum kernels|
 |||Square distance classifier with toy dataset|
 |||VQC example with single qubit|
 ||NN|Perceptron example circuit|
-||VQE|Minimum eigen value used in quantum chemistry|
+|Quantum Chemistry|VQE|Minimum eigen value used in quantum chemistry|
+|||H2O molecule ground state mappinng|
+|||Example fermionic opeartors|
+|||Jodan Winger example|
 ||Linear regression|HHL Algorithm qiskit framework usage|
 |Quantum Cruptography|BB84|Transmit secret key between alice and bob.|
 |||Encrypt data using key shared between alice and bob using tcp sockets.|
