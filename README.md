@@ -34,6 +34,7 @@ The following folders contain examples of various quantum methods.
 |||Set partitioning problem|
 |||Maxcut|
 |||Minimum vertex cover|
+|||Number partitioning problem|
 ||Classifier|Support vector classifier with quantum kernels|
 |||Square distance classifier with toy dataset|
 |||VQC example with single qubit|
