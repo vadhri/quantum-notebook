@@ -10,3 +10,4 @@ https://arxiv.org/pdf/1811.11538.pdf
 - Maxcut
 - Minimum vertex cover 
 - Number partitioning problem
+- Graph coloring (K-choices)
