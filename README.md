@@ -41,7 +41,7 @@ The following folders contain examples of various quantum methods.
 |||VQC example with single qubit|
 ||NN|Perceptron example circuit|
 |Quantum Chemistry|VQE|Minimum eigen value used in quantum chemistry|
-|||H2O molecule ground state mappinng|
+|||H2O molecule ground state energy using VQE and QPE|
 |||Example fermionic opeartors|
 |||Jodan Winger example|
 ||Linear regression|HHL Algorithm qiskit framework usage|
