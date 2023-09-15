@@ -16,6 +16,7 @@ The following folders contain examples of various quantum methods.
 |||3 and 2 Qubit period finding for 2-1|
 |Quantum Circuits|Tafolli|Apply Multi-qubit tafolli gate|
 ||Phase gates|T Gate in conjunction with H, CNOT|
+||Estimators|Example measurement circuits for observables|
 ||Example circuits|...| 
 |Quantum information|Teleportation|Multi Qbit teleportation|
 ||Superdense coding - 2 Qubits|Send classical information to bob by exchanging single qubit.|
