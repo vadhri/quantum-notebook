@@ -37,9 +37,11 @@ The following folders contain examples of various quantum methods.
 |||Minimum vertex cover|
 |||Number partitioning problem|
 |||Graph coloring (K-choices)|
-||Classifier|Support vector classifier with quantum kernels|
+||Classifier|Support vector classifier example with QSVC.|
 |||Square distance classifier with toy dataset|
-|||VQC example with single qubit|
+|||Variational quantum classifier with single qubit.|
+|||MINST digits recognition - svc with skikit - w and w/o jax |
+|||NID svc with pytorch |
 ||NN|Perceptron example circuit|
 |Quantum Chemistry|VQE|Minimum eigen value used in quantum chemistry|
 |||H2O molecule ground state energy using VQE and QPE|
